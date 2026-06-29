@@ -1,30 +1,34 @@
-# Python Escape Room
+# 🧩 Python Escape Room
 
-An interactive Python terminal game where players solve puzzles and unlock doors to escape.
+An interactive **Streamlit-based Python game** where players solve puzzles, unlock doors, and escape!
 
-## Features
-- Math challenge
-- Pattern guessing
-- Random lucky number game
-- Lives system
-- Reward badges
+## 🌍 Live Demo
+https://escape-room-game.streamlit.app/
 
-## Technologies
+---
+
+## 🎮 Features
+- 🧠 Math challenge door
+- 🔐 Secret word puzzle
+- 🍀 Lucky number game
+- ❤️ Lives system
+- 🏆 Reward badges
+- 🎯 Multiple levels
+
+---
+
+## 🛠 Technologies Used
 - Python
+- Streamlit
 - Random module
-- Functions
-- Loops
-- Conditions
+- Functions & Loops
+- Conditional logic
+- Session state management
 
-## How to Run
+---
 
-Clone repository:
+## 🚀 How to Run Locally
 
-git clone <repo-url>
-
-Run:
-
-python "escape room project.py"
-
-## Author
-Trishitha Girijala
+### 1. Clone the repository
+```bash
+git clone https://github.com/trishithagirijala9999-creator/escape-room-streamlit.git
