@@ -19,7 +19,7 @@ if "game_over" not in st.session_state:
 # ----------------------------
 # UI Header
 # ----------------------------
-st.title("🧩 Python Escape Room")
+st.title("🧩 Python Escape RoomV2")
 st.write("Solve puzzles, unlock doors, and escape!")
 
 st.write(f"❤️ Lives: {st.session_state.lives}")
